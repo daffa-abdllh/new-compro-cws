@@ -1,12 +1,12 @@
-import ArrowLeft from "../components/ArrowLeft";
-import ArrowRight from "../components/ArrowRight";
-import BlobPurple from "../components/BlobPurple";
-import bgCrmLight from "../assets/img/products/crm/bgCrmLight.png";
-import bgCrmSolid from "../assets/img/products/crm/bgCrmSolid.png";
-import crm from "../assets/img/products/crm/crm.png";
-import bgFmsLight from "../assets/img/products/fms/bgFmsLight.png";
-import bgFmsSolid from "../assets/img/products/fms/bgFmsSolid.png";
-import fms from "../assets/img/products/fms/fms.png";
+import ArrowLeft from "../../components/ArrowLeft";
+import ArrowRight from "../../components/ArrowRight";
+import BlobPurple from "../../components/BlobPurple";
+import bgCrmLight from "../../assets/img/products/crm/bgCrmLight.png";
+import bgCrmSolid from "../../assets/img/products/crm/bgCrmSolid.png";
+import crm from "../../assets/img/products/crm/crm.png";
+import bgFmsLight from "../../assets/img/products/fms/bgFmsLight.png";
+import bgFmsSolid from "../../assets/img/products/fms/bgFmsSolid.png";
+import fms from "../../assets/img/products/fms/fms.png";
 
 const Products = () => {
   return (
