@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@media (min-width: 493) and (max-width: 767) {
+  .card-product {
+    height: 400px;
+  }
+}
+
 .grayscale {
   filter: grayscale(100%);
+}
+
+p {
+  color: #323232;
 }
