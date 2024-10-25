@@ -11,3 +11,6 @@
 
 ## v1.2.0
     - Membuat halaman product crm website & mobile
+    
+## v1.2.1
+    - Fix redirect bat product crm

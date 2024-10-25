@@ -14,7 +14,7 @@ const CRM = () => {
       <div className="w-full h-full flex flex-col md:p-16 p-8 gap-4 relative overflow-hidden">
         <div className="w-full h-[10%] flex flex-row items-center">
           <div className="w-[10%] h-full flex items-center justify-center">
-            <ArrowLeft to="/" />
+            <ArrowLeft to="/products" />
           </div>
           <div className="w-[90%] h-full flex items-center">
             <p className="xl:text-3xl lg:text-2xl md:text-xl text-md ml-2 md:ml-0 font-bold">
