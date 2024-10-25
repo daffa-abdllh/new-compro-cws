@@ -8,3 +8,6 @@
 
 ## v1.1.1
     - Foldering products
+
+## v1.2.0
+    - Membuat halaman product crm website & mobile
