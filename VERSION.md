@@ -14,3 +14,6 @@
     
 ## v1.2.1
     - Fix redirect bat product crm
+
+## v1.3.0
+    - Membuat halaman product fms website & mobile
